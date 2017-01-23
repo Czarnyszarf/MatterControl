@@ -1,8 +1,8 @@
 English:Connect
-Translated:Połączyć
+Translated:Połącz
 
 English:Disconnect
-Translated:Rozłączyć się
+Translated:Rozłącz się
 
 English:Status
 Translated:Status
@@ -14,13 +14,13 @@ English:Not Connected
 Translated:Nie połączony
 
 English:Select Printer
-Translated:Wybierz Printer
+Translated:Wybierz Drukarkę
 
 English:Options
 Translated:Opcje
 
 English:Next Print
-Translated:Następny Drukuj
+Translated:Następny Druk
 
 English:Add
 Translated:Dodaj
@@ -29,19 +29,19 @@ English:Add a file to be printed
 Translated:Dodaj plik do wydrukowania
 
 English:Start
-Translated:Początek
+Translated:Start
 
 English:Begin printing the selected item.
-Translated:Rozpocząć drukowanie wybranego elementu.
+Translated:Rozpocznij drukowanie wybranego elementu.
 
 English:Skip
-Translated:Pominąć
+Translated:Pomiń
 
 English:Skip the current item and move to the next in queue
-Translated:Przejdź aktualną pozycję i przejść do następnego w kolejce
+Translated:Pomiń aktualny element i przejść do następnego w kolejce
 
 English:Remove
-Translated:Usunąć
+Translated:Usuń
 
 English:Remove current item from queue
 Translated:Usuń bieżący element z kolejki
@@ -50,7 +50,7 @@ English:Pause
 Translated:Pauza
 
 English:Pause the current print
-Translated:Przerwa aktualny druk
+Translated:Spauzuj aktualny druk. 
 
 English:Cancel Connect
 Translated:Anuluj Połącz
@@ -62,19 +62,19 @@ English:Cancel
 Translated:Anuluj
 
 English:Stop the current print
-Translated:Zatrzymaj bieżącą drukiem
+Translated:Zatrzymaj bieżacy druk. 
 
 English:Resume
-Translated:Wznawianie
+Translated:Wznów
 
 English:Resume the current print
-Translated:Wznowienie aktualny druk
+Translated:Wznów aktualny druk
 
 English:Reprint
 Translated:Przedruk
 
 English:Print current item again
-Translated:ponownie wydrukować aktualną pozycję
+Translated:Ponownie wydrkuj aktualny przedmiot.
 
 English:Done
 Translated:Gotowe
@@ -119,13 +119,13 @@ English:Remove All
 Translated:Usuń wszystko
 
 English:Queue Options
-Translated:Opcje Queue
+Translated:Opcje kolejki
 
 English: Import from Zip
-Translated: Import z Zip
+Translated: Import z pliku Zip
 
 English: Export to Zip
-Translated: Eksport do Zip
+Translated: Eksport do pliku Zip
 
 English: Export to Folder
 Translated: Eksport do folderu
@@ -137,7 +137,7 @@ English: Create Part Sheet
 Translated: Tworzenie części arkusza
 
 English:Search
-Translated:Szukanie
+Translated:Szukaj
 
 English:Import
 Translated:Import
